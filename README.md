@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Check if rails_admin 2.2.1 works good with rails-i18n 6.0.0
 
-Things you may want to cover:
+### i18n
 
-* Ruby version
+以下のリンクからコーピして使用
+https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/ja.yml
 
-* System dependencies
+### Rails Admin モデル　Test
 
-* Configuration
+date は日本語化されて、うまく更新できない
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![スクリーンショット 2022-08-26 15 29 47](https://user-images.githubusercontent.com/32739272/186847444-f1a09901-3eb3-4d63-ac88-82027749b316.png)
