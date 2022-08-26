@@ -1,6 +1,6 @@
 # README
 
-Check if rails_admin 2.2.1 works good with rails-i18n 6.0.0
+Check if rails_admin 2.2.1 works  with rails-i18n 6.0.0
 
 ### i18n
 
