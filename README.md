@@ -1,0 +1,1 @@
+# test_rails_admin_with_i18n
